@@ -1,0 +1,13 @@
+10
+20
+30
+40
+# If only numbers is written, no error will come!!
+But?1
+10
+20
+abc
+30
+50
+bvkbvj
+# If this is written , an error will come that the file contains non-numeric data
